@@ -1,2 +1,2 @@
 # Sentinel
-A Firewall Penetratio,testing and fixing Software.
+AI Assisted Firewall and Database Security Validations.
